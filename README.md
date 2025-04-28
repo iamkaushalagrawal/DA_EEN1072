@@ -4,7 +4,9 @@ The dataset includes information about PASCAL VOC 2012 Segmentation dataset for 
 Each image may contain one or more of these objects, making it a multi-label classification problem.
 Data Source:
 •	The dataset was sourced from the official PASCAL VOC 2012 dataset.
+
 o	http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
+
 o	https://public.roboflow.com/object-detection/pascal-voc-2012
 
 •	Accompanied by a CSV file that maps each image filename to a 20-dimensional binary label vector.
